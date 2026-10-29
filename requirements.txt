@@ -1,0 +1,25 @@
+# Dependencias principales del proyecto
+
+# --- Solvers numéricos y utilidades ---
+numpy
+pandas
+scipy
+pulp
+
+# --- Carga de PDF y splitters para RAG ---
+langchain-community
+langchain-text-splitters
+pypdf
+
+# --- Base vectorial persistente y API ---
+chromadb
+sentence-transformers
+fastapi
+uvicorn[standard]
+python-multipart
+
+# --- Llamadas a la API de OpenRouter ---
+requests
+
+# --- Variables de entorno ---
+python-dotenv

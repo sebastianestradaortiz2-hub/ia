@@ -1,0 +1,10 @@
+# Secrets (nunca commitear)
+.env
+
+# Python
+.venv/
+__pycache__/
+
+# OS
+Thumbs.db
+.DS_Store
