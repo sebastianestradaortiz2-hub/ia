@@ -3,7 +3,7 @@
 
 # Python
 .venv/
-__pycache__/
+#__pycache__/
 
 # OS
 Thumbs.db
